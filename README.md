@@ -1,2 +1,2 @@
 # Marathi-Jarvis
-Marathi Version of Jarvis from avengers
+I tried to create a virtual voice assistant which follows commands in marathi it basically follows basic commands like google,youtube search,etc 
